@@ -1,14 +1,13 @@
-
 # 🎨 Copic Color Palette Reference (Unofficial)
-
-## 🛠 Project Status
-This project is **under active development**.  
-It is available for **testing, exploration, and reference purposes**, but the API may change in future updates.
 
 > ⚠️ *This project is an **unofficial reference** and is **not affiliated with**, **endorsed by**, or **sponsored by** Too Corporation (Copic® brand).  
 > All trademarks and brand names are the property of their respective owners.*
 
 ---
+## 🛠 Project Status
+This project is **under active development**.  
+It is available for **testing, exploration, and reference purposes**, but the API may change in future updates.
+
 
 ## 📝 About the Project
 
