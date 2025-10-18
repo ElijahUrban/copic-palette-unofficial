@@ -4,3 +4,6 @@
 .gitignore
 .env
 main.py
+__pycache__/
+*.pyc
+*.pyo
