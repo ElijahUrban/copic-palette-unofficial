@@ -1,3 +1,6 @@
 .vscode/
 .idea/
+.venv/
+.gitignore
+.env
 main.py
